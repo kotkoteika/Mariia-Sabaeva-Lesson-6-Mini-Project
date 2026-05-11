@@ -1,0 +1,11 @@
+name,type,ability,height_m,weight_kg,base_xp,bmi_like_metric
+snorlax,normal,immunity,2.1,460.0,189,104.30839002267574
+pikachu,electric,static,0.4,6.0,112,37.49999999999999
+jigglypuff,normal,cute-charm,0.5,5.5,95,22.0
+eevee,normal,run-away,0.3,6.5,65,72.22222222222223
+bulbasaur,grass,overgrow,0.7,6.9,64,14.081632653061227
+psyduck,water,damp,0.8,19.6,64,30.624999999999996
+squirtle,water,torrent,0.5,9.0,63,36.0
+charmander,fire,blaze,0.6,8.5,62,23.61111111111111
+machop,fighting,guts,0.8,19.5,61,30.468749999999993
+meowth,normal,pickup,0.4,4.2,58,26.249999999999996
